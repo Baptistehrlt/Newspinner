@@ -134,9 +134,9 @@
 
     <p><strong>Email :</strong> Newspinner46@gmail.com</p>
 
-    <p><strong>PDG :</strong> Hérault Baptiste - 07 52 03 34 70</p>
+    <p><strong>PDG :</strong> Hérault Baptiste - 07 52 03 34 71</p>
 
-    <p><strong>Vice-PDG :</strong> Lavergne Bastien - 06 02 00 03 11</p>
+    <p><strong>Vice-PDG :</strong> Lavergne Bastien - 06 02 00 03 12</p>
 
   </section>
 
